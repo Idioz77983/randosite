@@ -1,0 +1,12 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color:darkseagreen;
+}
+.centered {
+    text-align: center;
+}
+.subtitle {
+    font-size: 25px;
+}
