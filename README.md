@@ -1,2 +1,2 @@
-# randosite.github.io
-cool site
+# randosite
+> its a random ahh site
